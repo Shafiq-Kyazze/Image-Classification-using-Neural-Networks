@@ -5,7 +5,19 @@
 *Used the fashion mnist dataset
 
 #The fashion mnist dataset
-*inculdes 60,000 images of the following
+*inculdes 60,000 images with the following labels:
+|  Label	|    Description    |
+--------- |-------------------| 
+|0	      |  T-shirt/top      |
+|1	      |  Trouser          |
+|2	      |  Pullover         |
+|3	      |  Dress            |
+|4	      |  Coat             |
+|5	      |  Sandal           |
+|6	      |  Shirt            |
+|7	      |  Sneaker          |
+|8	      |  Bag              |
+|9	      |  Ankle boot       |
 
 
 # Why the fashion mnist dataset?
@@ -18,6 +30,7 @@
 *Python Version: 3.7
 *Packages: Numpy,Keras,Matplotlib
 *Jupyter Notebook
+***Fashion mnist** : https://github.com/zalandoresearch/fashion-mnist
 
 
 # Findings
