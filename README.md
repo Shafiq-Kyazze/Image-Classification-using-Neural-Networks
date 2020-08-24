@@ -1,8 +1,8 @@
 # Image-Classification-using-Neural-Networks
 ***
-*Classified images bytraining a Convulutional Nueral Network (CNN).\
-*Managed to receive an accuracy of over 85%.\
-*Used the fashion mnist dataset.
+* Classified images bytraining a Convulutional Nueral Network (CNN).\
+* Managed to receive an accuracy of over 85%.\
+* Used the fashion mnist dataset.
 
 ## The fashion mnist dataset
 It includes 60,000 images with the following labels:
