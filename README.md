@@ -1,6 +1,6 @@
 # Image-Classification-using-Neural-Networks
 ***
-* Classified images bytraining a Convulutional Nueral Network (CNN).
+* Classified images bytraining a Convolutional Nueral Network (CNN).
 * Managed to receive an accuracy of over 85%.
 * Used the fashion mnist dataset.
 
