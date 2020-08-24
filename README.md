@@ -1,7 +1,7 @@
 # Image-Classification-using-Neural-Networks
 ***
-* Classified images bytraining a Convolutional Nueral Network (CNN).
-* Managed to receive an accuracy of over 85%.
+* Classified images by training a Convolutional Nueral Network (CNN).
+* Managed to receive a validation accuracy of over 85%.
 * Used the fashion mnist dataset.
 
 ## The fashion mnist dataset
@@ -38,8 +38,8 @@ It includes 60,000 images with the following labels:
 
 
 # Findings
-* Used dropout method to reduce overfitting by the model.
-* Improved knowledge about Convolutional Nueral Networks and deep leanring in general.
+* Used dropout method to reduce overfitting by the trained model.
+* Improved knowledge about Convolutional Neural Networks and deep learning in general.
 * Managed to obtain an accuracy close to 90%.
 
 ![Accuracy graph](https://user-images.githubusercontent.com/58377262/91074220-244dfc80-e634-11ea-8d50-7accf6aa4c6a.png)\
