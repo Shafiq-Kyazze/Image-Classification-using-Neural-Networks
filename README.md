@@ -19,8 +19,9 @@ It includes 60,000 images with the following labels:
 |8	      |  Bag              |
 |9	      |  Ankle boot       |
 
+The image below is an example of the different images in the dataset
 ![Labels example](https://user-images.githubusercontent.com/58377262/91074268-2fa12800-e634-11ea-9905-cba981df65a7.png)\
-An example of the  images in the dataset
+
 
 # Why the fashion mnist dataset?
 1. Its readily available from Keras.
