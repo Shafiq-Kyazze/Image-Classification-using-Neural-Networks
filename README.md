@@ -29,9 +29,9 @@ An example of the  images in the dataset
 
 # Code and Resources used
 ***
-* Python Version: 3.7\
-* Packages: Numpy,Keras,Matplotlib\
-* Jupyter Notebook\
+* **Python Version:** 3.7\
+* **Packages:** Numpy,Keras,Matplotlib\
+* **Jupyter Notebook**
 * **Fashion mnist** : https://github.com/zalandoresearch/fashion-mnist
 
 
